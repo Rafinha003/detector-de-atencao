@@ -1,4 +1,4 @@
-# Attention Detector
+# detector de atenção
  
 Sistema de visão computacional em **tempo real** para monitorar e detectar a atenção do usuário.
 
